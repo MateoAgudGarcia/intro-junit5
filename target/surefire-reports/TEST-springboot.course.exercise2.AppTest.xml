@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="springboot.course.exercise2.AppTest" time="0.097" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\magudelog\Documents\Estudio\API\Curso-Springboot\Exercise2\target\test-classes;C:\Users\magudelog\Documents\Estudio\API\Curso-Springboot\Exercise2\target\classes;C:\Users\magudelog\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.0-M1\junit-jupiter-api-5.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\apiguardian\apiguardian-api\1.1.1\apiguardian-api-1.1.1.jar;C:\Users\magudelog\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\magudelog\.m2\repository\org\junit\platform\junit-platform-commons\1.8.0-M1\junit-platform-commons-1.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.0-M1\junit-jupiter-engine-5.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\junit\platform\junit-platform-engine\1.8.0-M1\junit-platform-engine-1.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.4.20\kotlin-stdlib-jdk8-1.4.20.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.4.20\kotlin-stdlib-1.4.20.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.4.20\kotlin-stdlib-common-1.4.20.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.4.20\kotlin-stdlib-jdk7-1.4.20.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="America/Bogota"/>
+    <property name="user.country.format" value="CO"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin"/>
+    <property name="sun.java.command" value="C:\Users\magudelog\AppData\Local\Temp\surefire14328916615208671770\surefirebooter8670229990633645636.jar C:\Users\magudelog\AppData\Local\Temp\surefire14328916615208671770 2021-04-25T12-44-44_979-jvmRun1 surefire10741121113834288137tmp surefire_03994998495541765721tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\magudelog\Documents\Estudio\API\Curso-Springboot\Exercise2\target\test-classes;C:\Users\magudelog\Documents\Estudio\API\Curso-Springboot\Exercise2\target\classes;C:\Users\magudelog\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.0-M1\junit-jupiter-api-5.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\apiguardian\apiguardian-api\1.1.1\apiguardian-api-1.1.1.jar;C:\Users\magudelog\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\magudelog\.m2\repository\org\junit\platform\junit-platform-commons\1.8.0-M1\junit-platform-commons-1.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.0-M1\junit-jupiter-engine-5.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\junit\platform\junit-platform-engine\1.8.0-M1\junit-platform-engine-1.8.0-M1.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.4.20\kotlin-stdlib-jdk8-1.4.20.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.4.20\kotlin-stdlib-1.4.20.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.4.20\kotlin-stdlib-common-1.4.20.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\magudelog\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.4.20\kotlin-stdlib-jdk7-1.4.20.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\magudelog"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.10"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\magudelog\Documents\Estudio\API\Curso-Springboot\Exercise2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\magudelog\AppData\Local\Temp\surefire14328916615208671770\surefirebooter8670229990633645636.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.10+8-LTS-162"/>
+    <property name="user.name" value="magudelog"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\magudelog\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\MAGUDE~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.10"/>
+    <property name="user.dir" value="C:\Users\magudelog\Documents\Estudio\API\Curso-Springboot\Exercise2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="user.language.format" value="es"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.10\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.10\bin;C:\Program Files\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\ProgramData\chocolatey\bin;C:\Android-SDK;C:\Android-SDK\build-tools;C:\Android-SDK\tools;C:\SDK-Tools\platform-tools;C:\Program Files\nodejs\;C:\Program Files\gradle-6.8.3\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\magudelog\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\magudelog\AppData\Local\Programs\Python\Python39\;C:\Users\magudelog\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.3\bin;;C:\Android-SDK;C:\Android-SDK\build-tools;C:\Android-SDK\tools;C:\SDK-Tools\platform-tools;C:\Users\magudelog\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\magudelog\AppData\Roaming\npm;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.10+8-LTS-162"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testHelloName" classname="springboot.course.exercise2.AppTest" time="0.035">
+    <system-out><![CDATA[Before everything
+]]></system-out>
+  </testcase>
+  <testcase name="testHelloWorld" classname="springboot.course.exercise2.AppTest" time="0.002"/>
+</testsuite>
